@@ -1,0 +1,16 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maincontainer{
+ display: flex;
+ flex-wrap: wrap;
+
+    border: 2px solid black;
+    width: 200px;
+    height: auto;
+    
+}
